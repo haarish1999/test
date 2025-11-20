@@ -5,3 +5,5 @@ this is making changes in the test-branch
 trying new things in git
 
 harish is a good guy he will be placed in a company quickly
+
+adding new line as a part of dev
